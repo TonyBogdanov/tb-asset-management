@@ -8,7 +8,7 @@
 
 namespace TB\AssetManagement;
 
-class Bundle implements \TB\Bundle
+class AssetManagementBundle
 {
-
+    
 }
