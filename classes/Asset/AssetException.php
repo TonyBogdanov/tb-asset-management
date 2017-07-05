@@ -6,9 +6,7 @@
  *  @copyright  Copyright (c) 2017. www.tonybogdanov.com. All Rights Reserved.
  */
 
-namespace TB\AssetManagement;
+namespace TB\AssetManagement\Asset;
 
-class AssetManagementBundle
-{
-    
-}
+class AssetException extends \Exception
+{}

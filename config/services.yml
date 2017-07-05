@@ -1,0 +1,4 @@
+services:
+    tb.asset_management:
+        class: TB\AssetManagement\AssetManager
+        arguments: ['%env%', '@tb.transliterator']
