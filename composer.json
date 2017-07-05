@@ -1,0 +1,27 @@
+{
+    "name": "tonybogdanov/tb-asset-management",
+    "description": "A tb-framework asset management component",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Tony Bogdanov",
+            "email": "support@tonybogdanov.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "TB\\AssetManagement\\": "classes"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^3.3"
+    },
+    "require": {
+        "TonyBogdanov/tb-framework": "dev-master"
+    }
+}
