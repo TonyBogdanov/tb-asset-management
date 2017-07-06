@@ -22,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/classes/AssetManager.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="586">
-              <caret line="120" column="26" lean-forward="true" selection-start-line="120" selection-start-column="26" selection-end-line="120" selection-end-column="26" />
+              <caret line="120" column="26" lean-forward="false" selection-start-line="120" selection-start-column="26" selection-end-line="120" selection-end-column="26" />
               <folding>
                 <element signature="e#6#256#0#PHP" expanded="true" />
                 <element signature="e#289#324#0#PHP" expanded="true" />
@@ -437,18 +437,17 @@
       <workItem from="1499249983414" duration="1539000" />
       <workItem from="1499251539489" duration="12617000" />
       <workItem from="1499274837801" duration="9304000" />
-      <workItem from="1499334084977" duration="731000" />
+      <workItem from="1499334084977" duration="1948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107967000" />
+    <option name="totallyTimeSpent" value="109184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1952" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1952" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -629,6 +628,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="163" column="9" lean-forward="false" selection-start-line="163" selection-start-column="9" selection-end-line="163" selection-end-column="9" />
+          <folding>
+            <marker date="1472951368000" expanded="true" signature="2387:2391" ph="&lt;" />
+            <marker date="1472951368000" expanded="true" signature="2396:2400" ph="&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -636,6 +639,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="263" column="9" lean-forward="false" selection-start-line="263" selection-start-column="9" selection-end-line="263" selection-end-column="9" />
+          <folding>
+            <marker date="1476810332000" expanded="true" signature="3529:3533" ph="&lt;" />
+            <marker date="1476810332000" expanded="true" signature="3539:3543" ph="&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -656,7 +663,7 @@
     <entry file="file://$PROJECT_DIR$/classes/AssetManager.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="586">
-          <caret line="120" column="26" lean-forward="true" selection-start-line="120" selection-start-column="26" selection-end-line="120" selection-end-column="26" />
+          <caret line="120" column="26" lean-forward="false" selection-start-line="120" selection-start-column="26" selection-end-line="120" selection-end-column="26" />
           <folding>
             <element signature="e#6#256#0#PHP" expanded="true" />
             <element signature="e#289#324#0#PHP" expanded="true" />
