@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="229ab54e-d061-4900-8cf8-e0d676c5270d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="229ab54e-d061-4900-8cf8-e0d676c5270d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +16,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AssetManager.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AssetManager.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/classes/AssetManager.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="569">
@@ -27,16 +25,6 @@
                 <element signature="e#6#256#0#PHP" expanded="true" />
                 <element signature="e#289#324#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../git/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -448,12 +436,12 @@
       <workItem from="1499251539489" duration="12617000" />
       <workItem from="1499274837801" duration="9304000" />
       <workItem from="1499334084977" duration="1948000" />
-      <workItem from="1499347818474" duration="1533000" />
+      <workItem from="1499347818474" duration="2415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110717000" />
+    <option name="totallyTimeSpent" value="111599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -671,6 +659,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../git/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="38" lean-forward="false" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/classes/AssetManager.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="569">
@@ -679,14 +675,6 @@
             <element signature="e#6#256#0#PHP" expanded="true" />
             <element signature="e#289#324#0#PHP" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../git/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
